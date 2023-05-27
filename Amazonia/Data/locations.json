@@ -1,0 +1,44 @@
+[
+  {
+    "id": "onca-pintada",
+    "name": "Parque Nacional da Chapada dos Veadeiros",
+    "image": "map-onca",
+    "latitude": -14.0477,
+    "longitude": -47.5053
+  },
+  {
+    "id": "arara-azul",
+    "name": "Parque Nacional do Pantanal Matogrossense",
+    "image": "map-arara",
+    "latitude": -17.9009,
+    "longitude": -56.0992
+  },
+  {
+    "id": "boto-cor-de-rosa",
+    "name": "Parque Nacional do Jaú",
+    "image": "map-boto",
+    "latitude": -0.5685,
+    "longitude": -62.4187
+  },
+  {
+    "id": "preguica",
+    "name": "Parque Nacional do Iguaçu",
+    "image": "map-preguica",
+    "latitude": -25.6872,
+    "longitude": -54.4378
+  },
+  {
+    "id": "tamandua",
+    "name": "Parque Nacional da Serra da Capivara",
+    "image": "map-tamandua",
+    "latitude": -8.8172,
+    "longitude": -42.3828
+  },
+  {
+    "id": "tucano",
+    "name": "Parque Nacional da Amazônia",
+    "image": "map-tucano",
+    "latitude": -3.3544,
+    "longitude": -55.8669
+  }
+]

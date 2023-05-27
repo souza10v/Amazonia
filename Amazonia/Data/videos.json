@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tamandua",
+    "name": "Tamanduá",
+    "headline": "Mamífero com focinho longo e língua pegajosa"
+  },
+  {
+    "id": "arara",
+    "name": "Arara",
+    "headline": "Ave colorida com grande envergadura de asas"
+  },
+  {
+    "id": "tucano",
+    "name": "Tucano",
+    "headline": "Ave com bico grande e colorido"
+  },
+  {
+    "id": "onca",
+    "name": "Onça",
+    "headline": "Felino de porte médio com pelagem manchada"
+  }
+]

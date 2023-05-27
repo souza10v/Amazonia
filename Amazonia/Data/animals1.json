@@ -1,0 +1,88 @@
+[
+  {
+    "id": "onca-pintada",
+    "name": "Onça-pintada",
+    "headline": "O maior felino das Américas",
+    "description": "A onça-pintada é um felino de porte robusto encontrado na Amazônia. Sua pelagem possui manchas em forma de rosetas, que ajudam na camuflagem. Com suas habilidades de caça, é considerada um predador ágil e poderoso.\n\nA onça-pintada é um símbolo da fauna brasileira e desempenha um papel fundamental no equilíbrio dos ecossistemas amazônicos. Sua presença contribui para o controle populacional de suas presas e para a manutenção da biodiversidade.\n\nNo entanto, a onça-pintada enfrenta desafios devido à perda de habitat e à caça ilegal, sendo considerada uma espécie ameaçada.",
+    "wikipedia": "https://pt.wikipedia.org/wiki/On%C3%A7a-pintada",
+    "image": "onca-pintada",
+    "gallery": ["onca-pintada-1", "onca-pintada-2", "onca-pintada-3"],
+    "facts": [
+      "A onça-pintada é excelente nadadora.",
+      "Seu rugido pode ser ouvido a longas distâncias.",
+      "É um animal solitário e territorial."
+    ]
+  },
+  {
+    "id": "arara-azul",
+    "name": "Arara-azul",
+    "headline": "Ave colorida de penas azuis",
+    "description": "A arara-azul é uma espécie de ave encontrada na Amazônia. Ela se destaca por suas penas azuis brilhantes, que a tornam uma das aves mais reconhecidas e admiradas do mundo.\n\nEssas aves sociais são conhecidas por sua inteligência e vocalizações características. As araras-azuis formam pares monogâmicos e são animais monogâmicos, mantendo-se fiéis a seus parceiros ao longo da vida.\n\nInfelizmente, a arara-azul enfrenta ameaças devido à perda de habitat e ao tráfico de animais, sendo classificada como uma espécie vulnerável.",
+    "wikipedia": "https://pt.wikipedia.org/wiki/Arara-azul",
+    "image": "arara-azul",
+    "gallery": ["arara-azul-1", "arara-azul-2", "arara-azul-3"],
+    "facts": [
+      "As araras-azuis formam pares monogâmicos que duram toda a vida.",
+      "Elas se comunicam através de vocalizações altas e características.",
+      "São importantes na dispersão de sementes na floresta."
+    ]
+  },
+  {
+    "id": "boto-cor-de-rosa",
+    "name": "Boto-cor-de-rosa",
+    "headline": "Golfinho de água doce",
+    "description": "O boto-cor-de-rosa, também conhecido como boto-amazonense, é um golfinho de água doce encontrado nos rios da Amazônia. Ele é conhecido por sua coloração rosa e por sua natureza amigável e brincalhona.\n\nOs botos-cor-de-rosa são animais sociáveis e interagem com os humanos de maneira única. Eles têm uma importância cultural para as comunidades ribeirinhas da região amazônica.\n\nInfelizmente, o boto-cor-de-rosa enfrenta ameaças como a pesca predatória e a poluição dos rios, o que coloca em risco sua sobrevivência.",
+    "wikipedia": "https://pt.wikipedia.org/wiki/Boto-cor-de-rosa",
+    "image": "boto-cor-de-rosa",
+    "gallery": ["boto-cor-de-rosa-1", "boto-cor-de-rosa-2", "boto-cor-de-rosa-3"],
+    "facts": [
+      "Os botos-cor-de-rosa são conhecidos por sua amizade e interação com os humanos.",
+      "Eles emitem sons característicos que se assemelham a assobios e vocalizações.",
+      "São considerados animais mágicos na cultura amazônica."
+    ]
+  },
+  {
+    "id": "preguica",
+    "name": "Preguiça",
+    "headline": "Um mamífero de movimentos lentos",
+    "description": "A preguiça é um mamífero que habita as florestas da América Central e do Sul. Ela é conhecida por seu comportamento lento e por passar a maior parte de sua vida nas árvores.\n\nAs preguiças têm uma adaptação única: seus pelos abrigam algas, o que lhes confere uma coloração esverdeada e ajuda na camuflagem. Sua dieta é composta principalmente de folhas, e seu metabolismo lento as ajuda a conservar energia.\n\nApesar de seu estilo de vida tranquilo, as preguiças enfrentam desafios devido à destruição de seu habitat e à caça ilegal.",
+    "wikipedia": "https://pt.wikipedia.org/wiki/Pregui%C3%A7a",
+    "image": "preguica",
+    "gallery": ["preguica-1", "preguica-2", "preguica-3"],
+    "facts": [
+      "As preguiças podem passar até 20 horas por dia dormindo.",
+      "Elas possuem garras longas e afiadas, que as ajudam a se segurar nos galhos das árvores.",
+      "Sua digestão é lenta e pode levar semanas para digerir completamente uma refeição."
+    ]
+  },
+  {
+    "id": "tamandua",
+    "name": "Tamanduá",
+    "headline": "Um mamífero especializado em formigas",
+    "description": "O tamanduá é um mamífero encontrado em diferentes regiões da América Central e do Sul. Ele possui um focinho longo e uma língua pegajosa, adaptados para se alimentar de formigas e cupins.\n\nOs tamanduás têm garras fortes e podem se movimentar tanto no chão quanto nas árvores. Eles são conhecidos por seu andar desajeitado e por emitirem sons como assobios e grunhidos.\n\nApesar de não estarem ameaçados de extinção, a destruição de seu habitat e o tráfico de animais ainda representam ameaças para os tamanduás.",
+    "wikipedia": "https://pt.wikipedia.org/wiki/Tamandu%C3%A1",
+    "image": "tamandua",
+    "gallery": ["tamandua-1", "tamandua-2", "tamandua-3"],
+    "facts": [
+      "Os tamanduás podem consumir até 30 mil formigas em um único dia.",
+      "Eles têm uma língua que pode medir até 60 centímetros.",
+      "São excelentes nadadores e podem atravessar rios com facilidade."
+    ]
+  },
+  {
+    "id": "tucano",
+    "name": "Tucano",
+    "headline": "Ave colorida com um bico marcante",
+    "description": "O tucano é uma ave encontrada nas florestas tropicais da América Central e do Sul. Ele é conhecido por seu bico grande e colorido, que pode ser tão longo quanto seu próprio corpo.\n\nOs tucanos têm uma dieta variada, que inclui frutas, insetos e até mesmo ovos de outras aves. Eles são animais sociáveis e vivem em bandos, emitindo vocalizações características.\n\nApesar de serem alvo do tráfico de animais e da destruição de seus habitats, algumas espécies de tucanos ainda são abundantes e não estão ameaçadas.",
+    "wikipedia": "https://pt.wikipedia.org/wiki/Tucano",
+    "image": "tucano",
+    "gallery": ["tucano-1", "tucano-2", "tucano-3"],
+    "facts": [
+      "O bico do tucano pode ser maior do que seu próprio corpo, mas é leve e oco.",
+      "Eles têm uma visão aguçada e podem enxergar cores vivas.",
+      "São importantes dispersores de sementes na floresta."
+    ]
+  }
+]
+
+
